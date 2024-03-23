@@ -26,3 +26,11 @@
 • Sklearn.metrics <be>
 
 # Result
+<b>LSTM Result</b> <br>
+<br> <img src="LSTM_result.png" width="500" height="300"><br>
+
+<b>RNN Result</b> <br>
+<br> <img src="LSTM_result.png" width="500" height="300"><br>
+
+<b>Neural Prophet Result</b> <br>
+<br> <img src="NN_result.png" width="500" height="300">
